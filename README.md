@@ -1,6 +1,10 @@
 🎓   Bachelor of Information Systems.
+
 👨‍💻   I'm a Software Engineer @ ITERIS.
+
 💻   At the moment I'm working with Back-end Development, using Java, Spring boot, Cloud Computing, SOLID and Microservices.
+
+
 
 🛠️   Technologies:
    
